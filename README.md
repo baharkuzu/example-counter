@@ -1,2 +1,2 @@
-# todo-app-form Formik and Yup Validation
+Formik and Yup Validation
 
